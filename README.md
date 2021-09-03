@@ -8,7 +8,7 @@ Docker, AdminLTE, MariaDB, Session Login, RESTful API, HTTPS etc.
 #IMPORTANT!! MUST Set this value [MyLaboratory.Site -> appsettings.json -> DomainName (According to Server Hostname)] 
 & Docker-compose file's comment!!
 
-# Original MyLaboratory Source Code
+# Original MyLaboratory Source Code (Current State: Private)
 ![OriginalMyLaboratory](https://user-images.githubusercontent.com/20404991/132028860-d91b192e-d309-4306-b5cc-38ce8d3561c4.jpg)
 
 # Login
